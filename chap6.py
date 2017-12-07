@@ -1,1 +1,1 @@
-#Placeholder for Chapter 6 work
+#Placeholder for Chapter 6 work.
